@@ -20,6 +20,6 @@
             EJS_pathtodata = "/semag/emulatorjs/data/";
             EJS_gameUrl = "crystal.gbc";
         </script>
-        <script src="/semag/emulatorjs/data/loader.js"></script>
+        <script src="/emulatorjs/data/loader.js"></script>
     </body>
 </html>
