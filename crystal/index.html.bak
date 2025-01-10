@@ -1,6 +1,6 @@
 <html>
     <head>
-        <script src="/js/all.min.js"></script>
+        <script src="js/all.min.js"></script>
 		<script src="KeyRedirect.js" defer></script>
 
         <style>
@@ -20,6 +20,6 @@
             EJS_pathtodata = "/semag/emulatorjs/data/";
             EJS_gameUrl = "crystal.gbc";
         </script>
-        <script src="/emulatorjs/data/loader.js"></script>
+        <script src="emulatorjs/data/loader.js"></script>
     </body>
 </html>
